@@ -1,0 +1,29 @@
+{
+	"sidemenu": {
+		"blog": [
+			"View All Articles",
+			"Trends",
+			"Advice",
+			"Relationships",
+			"Inspiration",
+			"Lifestyle"
+		],
+		"explore": [
+			"Atlanta, GA",
+			"Austin, TX",
+			"Charlotte, NC",
+			"Dallas, TX",
+			"Denver, CO",
+			"Houston, TX",
+			"Indianapolis, IN",
+			"Las Vegas, NV",
+			"Orlando, FL",
+			"Phoenix, AZ",
+			"Raleigh Durham, NC",
+			"Riverside, CA",
+			"San Antonio, TX",
+			"Tampa, Fl",
+			"Washington, DC"
+		]
+	}
+}

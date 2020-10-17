@@ -1,0 +1,18 @@
+{
+	"production": {
+		"EmailAddress": "sagupta@ex2india.com",
+		"Password": "123456"
+	},
+	"dev": {
+		"EmailAddress": "sagupta@builderhomesite.com",
+		"Password": "123451"
+	},
+	"test": {
+		"EmailAddress": "sagupta@builderhomesite.com",
+		"Password": "123451"
+	},
+	"staging": {
+		"EmailAddress": "sagupta@builderhomesite.com",
+		"Password": "123453"
+	}
+}

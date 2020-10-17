@@ -1,0 +1,9 @@
+{
+	"signUp": {
+		"FirstName": "test",
+		"LastName": "test",
+		"Email": "sagupta@builderhomesite.com",
+		"Password": "123456",
+		"Zipcode": "12221"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"ViewAllArticle": {
+		"title": "Home Advice & Inspiration | HomLuv",
+		"description": "Learn all about building a new house, get advice from home experts, and be inspired by the latest home design trends.",
+		"url": "/design-guide",
+		"canonical": "/design-guide"
+	},
+	"Trends": {
+		"title": "Trends Articles | HomLuv",
+		"description": "Learn all about the latest in home décor, interior design & products.",
+		"url": "/design-guide/trends",
+		"canonical": "/design-guide/trends"
+	},
+	"Advice": {
+		"title": "Advice Articles | HomLuv",
+		"description": "Expert advice about buying, designing & building your perfect home.",
+		"url": "/design-guide/advice",
+		"canonical": "/design-guide/advice"
+	},
+	"Relationship": {
+		"title": "Relationships Articles | HomLuv",
+		"description": "Tips for navigating the homebuying process, your family & new home.",
+		"url": "/design-guide/relationships",
+		"canonical": "/design-guide/relationships"
+	},
+	"Inspiration": {
+		"title": "Inspiration Articles | HomLuv",
+		"description": "Stunning new home photos, slideshows & videos to inspire you.",
+		"url": "/design-guide/inspiration",
+		"canonical": "/design-guide/inspiration"
+	},
+	"Lifestyle": {
+		"title": "Lifestyle Articles | HomLuv",
+		"description": "How to settle in, personalize & thrive in your newly built home.",
+		"url": "/design-guide/lifestyle",
+		"canonical": "/design-guide/lifestyle"
+	},
+	"noOfMetaTags":{
+	"live":"24",
+	"others":"26"
+	}
+	
+}
